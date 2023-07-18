@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="FacultateaXModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Catalog_note">
+    <Key>
+      <PropertyRef Name="Id_nota" />
+    </Key>
+    <Property Name="Id_Cont" Type="int" Nullable="false" />
+    <Property Name="Nume_Materie" Type="varchar" MaxLength="50" />
+    <Property Name="Nota_Examen" Type="int" />
+    <Property Name="Data_Examen" Type="varchar" MaxLength="50" />
+    <Property Name="Nota_restanta" Type="int" />
+    <Property Name="Data_restanta" Type="varchar" MaxLength="50" />
+    <Property Name="Nr_credite" Type="int" />
+    <Property Name="Id_nota" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Conturi">
+    <Key>
+      <PropertyRef Name="Id_Cont" />
+    </Key>
+    <Property Name="Id_Cont" Type="int" Nullable="false" />
+    <Property Name="User_nameX" Type="varchar" MaxLength="50" />
+    <Property Name="PasswordX" Type="varchar" MaxLength="50" />
+    <Property Name="Nivel_acces" Type="int" />
+  </EntityType>
+  <EntityType Name="Grupe">
+    <Key>
+      <PropertyRef Name="Id_Grupa" />
+    </Key>
+    <Property Name="Id_Grupa" Type="int" Nullable="false" />
+    <Property Name="Nume_Grupa" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Materii">
+    <Key>
+      <PropertyRef Name="Id_Materie" />
+    </Key>
+    <Property Name="Id_Materie" Type="int" Nullable="false" />
+    <Property Name="Denumire" Type="varchar" MaxLength="50" />
+    <Property Name="Nr_credite" Type="int" />
+  </EntityType>
+  <EntityType Name="myimages">
+    <Key>
+      <PropertyRef Name="Id_cont" />
+    </Key>
+    <Property Name="Id_cont" Type="int" Nullable="false" />
+    <Property Name="img" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="Profesor_Grupe">
+    <Key>
+      <PropertyRef Name="Id_Grupa" />
+      <PropertyRef Name="Id_Cont" />
+    </Key>
+    <Property Name="Id_Grupa" Type="int" Nullable="false" />
+    <Property Name="Id_Cont" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Profesori">
+    <Key>
+      <PropertyRef Name="Id_Cont" />
+    </Key>
+    <Property Name="Id_Cont" Type="int" Nullable="false" />
+    <Property Name="Nume" Type="varchar" MaxLength="50" />
+    <Property Name="Prenume" Type="varchar" MaxLength="50" />
+    <Property Name="Numar_telefon" Type="varchar" MaxLength="50" />
+    <Property Name="Email" Type="varchar" MaxLength="50" />
+    <Property Name="Adresa" Type="varchar" MaxLength="50" />
+    <Property Name="Functie" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Profesori_Materii">
+    <Key>
+      <PropertyRef Name="Id_Materie" />
+      <PropertyRef Name="Id_Cont" />
+    </Key>
+    <Property Name="Id_Materie" Type="int" Nullable="false" />
+    <Property Name="Id_Cont" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Studenti">
+    <Key>
+      <PropertyRef Name="Id_Cont" />
+    </Key>
+    <Property Name="Id_Cont" Type="int" Nullable="false" />
+    <Property Name="Nume" Type="varchar" MaxLength="50" />
+    <Property Name="Id_Grupa" Type="int" />
+    <Property Name="An_Studiu" Type="int" />
+    <Property Name="Specializare" Type="varchar" MaxLength="50" />
+    <Property Name="Forma_invatamant" Type="varchar" MaxLength="50" />
+    <Property Name="Numar_restante" Type="int" />
+    <Property Name="Prenume" Type="varchar" MaxLength="50" />
+    <Property Name="Numar_telefon" Type="varchar" MaxLength="50" />
+    <Property Name="Email" Type="varchar" MaxLength="50" />
+    <Property Name="Adresa" Type="varchar" MaxLength="50" />
+    <Property Name="CNP" Type="varchar" MaxLength="13" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <Association Name="FK__myimages__Id_con__4E88ABD4">
+    <End Role="Conturi" Type="Self.Conturi" Multiplicity="1" />
+    <End Role="myimages" Type="Self.myimages" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Conturi">
+        <PropertyRef Name="Id_Cont" />
+      </Principal>
+      <Dependent Role="myimages">
+        <PropertyRef Name="Id_cont" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Profesori__Id_Co__1DE57479">
+    <End Role="Conturi" Type="Self.Conturi" Multiplicity="1" />
+    <End Role="Profesori" Type="Self.Profesori" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Conturi">
+        <PropertyRef Name="Id_Cont" />
+      </Principal>
+      <Dependent Role="Profesori">
+        <PropertyRef Name="Id_Cont" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Studenti__Id_Con__182C9B23">
+    <End Role="Conturi" Type="Self.Conturi" Multiplicity="1" />
+    <End Role="Studenti" Type="Self.Studenti" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Conturi">
+        <PropertyRef Name="Id_Cont" />
+      </Principal>
+      <Dependent Role="Studenti">
+        <PropertyRef Name="Id_Cont" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Studenti__Id_Gru__1920BF5C">
+    <End Role="Grupe" Type="Self.Grupe" Multiplicity="0..1" />
+    <End Role="Studenti" Type="Self.Studenti" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Grupe">
+        <PropertyRef Name="Id_Grupa" />
+      </Principal>
+      <Dependent Role="Studenti">
+        <PropertyRef Name="Id_Grupa" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Catalog_note_Studenti">
+    <End Role="Studenti" Type="Self.Studenti" Multiplicity="1" />
+    <End Role="Catalog_note" Type="Self.Catalog_note" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Studenti">
+        <PropertyRef Name="Id_Cont" />
+      </Principal>
+      <Dependent Role="Catalog_note">
+        <PropertyRef Name="Id_Cont" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Grupe_Profesori">
+    <End Role="Grupe" Type="Self.Grupe" Multiplicity="1" />
+    <End Role="Profesor_Grupe" Type="Self.Profesor_Grupe" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Grupe">
+        <PropertyRef Name="Id_Grupa" />
+      </Principal>
+      <Dependent Role="Profesor_Grupe">
+        <PropertyRef Name="Id_Grupa" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Materie">
+    <End Role="Materii" Type="Self.Materii" Multiplicity="1" />
+    <End Role="Profesori_Materii" Type="Self.Profesori_Materii" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Materii">
+        <PropertyRef Name="Id_Materie" />
+      </Principal>
+      <Dependent Role="Profesori_Materii">
+        <PropertyRef Name="Id_Materie" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Profesor">
+    <End Role="Profesori" Type="Self.Profesori" Multiplicity="1" />
+    <End Role="Profesori_Materii" Type="Self.Profesori_Materii" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Profesori">
+        <PropertyRef Name="Id_Cont" />
+      </Principal>
+      <Dependent Role="Profesori_Materii">
+        <PropertyRef Name="Id_Cont" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Profesor_Grupe">
+    <End Role="Profesori" Type="Self.Profesori" Multiplicity="1" />
+    <End Role="Profesor_Grupe" Type="Self.Profesor_Grupe" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Profesori">
+        <PropertyRef Name="Id_Cont" />
+      </Principal>
+      <Dependent Role="Profesor_Grupe">
+        <PropertyRef Name="Id_Cont" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="FacultateaXModelStoreContainer">
+    <EntitySet Name="Catalog_note" EntityType="Self.Catalog_note" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Conturi" EntityType="Self.Conturi" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Grupe" EntityType="Self.Grupe" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Materii" EntityType="Self.Materii" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="myimages" EntityType="Self.myimages" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Profesor_Grupe" EntityType="Self.Profesor_Grupe" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Profesori" EntityType="Self.Profesori" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Profesori_Materii" EntityType="Self.Profesori_Materii" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Studenti" EntityType="Self.Studenti" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__myimages__Id_con__4E88ABD4" Association="Self.FK__myimages__Id_con__4E88ABD4">
+      <End Role="Conturi" EntitySet="Conturi" />
+      <End Role="myimages" EntitySet="myimages" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Profesori__Id_Co__1DE57479" Association="Self.FK__Profesori__Id_Co__1DE57479">
+      <End Role="Conturi" EntitySet="Conturi" />
+      <End Role="Profesori" EntitySet="Profesori" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Studenti__Id_Con__182C9B23" Association="Self.FK__Studenti__Id_Con__182C9B23">
+      <End Role="Conturi" EntitySet="Conturi" />
+      <End Role="Studenti" EntitySet="Studenti" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Studenti__Id_Gru__1920BF5C" Association="Self.FK__Studenti__Id_Gru__1920BF5C">
+      <End Role="Grupe" EntitySet="Grupe" />
+      <End Role="Studenti" EntitySet="Studenti" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Catalog_note_Studenti" Association="Self.FK_Catalog_note_Studenti">
+      <End Role="Studenti" EntitySet="Studenti" />
+      <End Role="Catalog_note" EntitySet="Catalog_note" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Grupe_Profesori" Association="Self.FK_Grupe_Profesori">
+      <End Role="Grupe" EntitySet="Grupe" />
+      <End Role="Profesor_Grupe" EntitySet="Profesor_Grupe" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Materie" Association="Self.FK_Materie">
+      <End Role="Materii" EntitySet="Materii" />
+      <End Role="Profesori_Materii" EntitySet="Profesori_Materii" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Profesor" Association="Self.FK_Profesor">
+      <End Role="Profesori" EntitySet="Profesori" />
+      <End Role="Profesori_Materii" EntitySet="Profesori_Materii" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Profesor_Grupe" Association="Self.FK_Profesor_Grupe">
+      <End Role="Profesori" EntitySet="Profesori" />
+      <End Role="Profesor_Grupe" EntitySet="Profesor_Grupe" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

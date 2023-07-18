@@ -1,0 +1,208 @@
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\WPF_Pro.csprojAssemblyReference.cache
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\App.g.cs
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\WPF_Pro_MarkupCompile.cache
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\WPF_Pro_MarkupCompile.lref
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\WPF_Pro.exe.config
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\WPF_Pro.exe
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\WPF_Pro.pdb
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\WPF_Pro.g.resources
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\WPF_Pro.Properties.Resources.resources
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\WPF_Pro.csproj.GenerateResource.cache
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\WPF_Pro.exe
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\WPF_Pro.pdb
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\EntityFramework.dll
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\System.Buffers.dll
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\System.Collections.Immutable.dll
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\System.Memory.dll
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\EntityFramework.xml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\System.Buffers.xml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\System.Collections.Immutable.xml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\System.Memory.xml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\WPF_Pro.csproj.CopyComplete
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\WPF_Pro_Content.g.cs
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\MainWindow.g.cs
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\MainWindow.baml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\PWelcome.g.cs
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\PWelcome.baml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\PDate_Personale.g.cs
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\PDate_Personale.baml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\PCatalog.g.cs
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\PCatalog.baml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\PProfesor.g.cs
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\PProfesor.baml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\PGrupe.g.cs
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\PGrupe.baml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\SimpleInjector.dll
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\bin\Debug\SimpleInjector.xml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\PAll.g.cs
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\PAll.baml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\PProf_datepers.g.cs
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\PProf_datepers.baml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\PCauta_st.g.cs
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\PCauta_st.baml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\PAdmin.g.cs
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\PAdmin.baml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\PAprof.g.cs
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\PAprof.baml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\pregister.g.cs
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\pregister.baml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\Ppdel.g.cs
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\Ppdel.baml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\PAdmat.g.cs
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\PAdmat.baml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\PAdg.g.cs
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\PAdg.baml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\PAstud.g.cs
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\PAstud.baml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\PAaddS.g.cs
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\PAaddS.baml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\PAdels.g.cs
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\PAdels.baml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\PaddN.g.cs
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\PaddN.baml
+C:\Users\andy_\source\repos\WPF_Pro\WPF_Pro\obj\Debug\WPF_Pro.csproj.CoreCompileInputs.cache
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\WPF_Pro.exe.config
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\WPF_Pro.exe
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\WPF_Pro.pdb
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\EntityFramework.dll
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\EntityFramework.SqlServer.dll
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\SimpleInjector.dll
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\System.Buffers.dll
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\System.Collections.Immutable.dll
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\System.Memory.dll
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\System.Numerics.Vectors.dll
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\EntityFramework.xml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\EntityFramework.SqlServer.xml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\SimpleInjector.xml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\System.Buffers.xml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\System.Collections.Immutable.xml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\System.Memory.xml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\System.Numerics.Vectors.xml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\WPF_Pro.csprojAssemblyReference.cache
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\MainWindow.g.cs
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\PAaddS.g.cs
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\PaddN.g.cs
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\PAdels.g.cs
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\PAdg.g.cs
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\PAdmat.g.cs
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\PAdmin.g.cs
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\PAll.g.cs
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\PAprof.g.cs
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\PAstud.g.cs
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\PCatalog.g.cs
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\PCauta_st.g.cs
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\PDate_Personale.g.cs
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\PGrupe.g.cs
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\Ppdel.g.cs
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\PProfesor.g.cs
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\PProf_datepers.g.cs
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\pregister.g.cs
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\PWelcome.g.cs
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\App.g.cs
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\WPF_Pro_Content.g.cs
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\WPF_Pro_MarkupCompile.cache
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\WPF_Pro_MarkupCompile.lref
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\MainWindow.baml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\PAaddS.baml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\PaddN.baml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\PAdels.baml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\PAdg.baml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\PAdmat.baml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\PAdmin.baml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\PAll.baml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\PAprof.baml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\PAstud.baml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\PCatalog.baml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\PCauta_st.baml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\PDate_Personale.baml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\PGrupe.baml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\Ppdel.baml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\PProfesor.baml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\PProf_datepers.baml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\pregister.baml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\PWelcome.baml
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\WPF_Pro.g.resources
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\WPF_Pro.Properties.Resources.resources
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\WPF_Pro.csproj.GenerateResource.cache
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\WPF_Pro.csproj.CoreCompileInputs.cache
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\WPF_Pro.csproj.CopyComplete
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\WPF_Pro.exe
+D:\Facultate\anu lII\S2\Proiect baze de date\WPF_Pro\WPF_Pro\obj\Debug\WPF_Pro.pdb
